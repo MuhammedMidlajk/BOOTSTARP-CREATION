@@ -1,0 +1,132 @@
+.backgrdcolor {
+
+    background-color: #6e2cf2;
+    height: 80px;
+}
+
+.nav-link {
+
+    color: white;
+}
+
+.nav-link {
+
+    color: white !important;
+}
+
+.navbar-nav {
+
+    padding-left: -50px;
+}
+
+.navbar-brand img {
+
+    margin-left: 110px;
+    width: 50px;
+    height: 30px;
+    
+}
+.navbar-brand img:hover{
+
+    rotate: -8deg;
+
+
+}
+
+.bgcolor {
+
+    background-color: #6e2cf2;
+
+}
+
+.bx {
+
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 10px;
+    color: white;
+
+
+}
+
+.search {
+
+    padding-left: 30px;
+
+}
+
+.searchbox {
+
+    margin-right: 650px !important;
+    width: 280px;
+}
+.image img{
+
+    width: 30px;
+    position: absolute;
+    right: 350px;
+    bottom: 20px;
+    
+}
+.image2 img{
+
+    width: 85px;
+    position: absolute;
+    right: 280px;
+    bottom: 14px;
+    
+
+}
+.image3 img{
+
+    width: 30px;
+    position: absolute;
+    right: 263px;
+    bottom: 23px;
+
+}
+.div{
+
+    
+    height: 55px;
+    border: solid 1px gray;
+    position: absolute;
+    right: 240px;
+}
+.dropdown{
+
+    color: white;
+    position: absolute;
+    right: 150px;
+    top: 25px;
+}
+.div2{
+
+    
+    height: 55px;
+    border: solid 1px gray;
+    position: absolute;
+    right: 140px;
+    bottom: 12px;
+}
+button{
+
+    background-color: transparent !important;
+    border: none !important;
+}
+.dark img{
+
+    width: 30px;
+    position: absolute;
+    right: 90px;
+    bottom: 23px;
+
+}
+.ten{
+
+    margin-left: 1353px;
+}
+.dropdown2{
+
+    width: 80px;
+}
